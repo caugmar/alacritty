@@ -1,0 +1,37 @@
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
+]
+
+[font]
+size = 12.0
+
+[font.normal]
+family = "FiraCode Nerd Font Mono"
+style = "Regular"
+
+[font.bold]
+family = "FiraCode Nerd Font Mono"
+style = "Bold"
+
+[font.italic]
+family = "FiraCode Nerd Font Mono"
+style = "Italic"
+
+[font.bold_italic]
+family = "FiraCode Nerd Font Mono"
+style = "Bold Italic"
+
+[window]
+# Remove a barra de título e as bordas da janela
+decorations = "None"
+
+# Opcional: Adicione um preenchimento (padding) para o texto não colar na borda
+[window.padding]
+x = 10
+y = 10
+
+[window.dimensions]
+# Define a largura (colunas) e altura (linhas)
+columns = 100
+lines = 30
+
