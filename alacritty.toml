@@ -22,7 +22,7 @@ style = "Bold Italic"
 [window]
 # Remove a barra de título e as bordas da janela
 decorations = "None"
-opacity = 0.85
+opacity = 0.9
 
 # Opcional: Adicione um preenchimento (padding) para o texto não colar na borda
 [window.padding]
