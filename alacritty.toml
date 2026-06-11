@@ -36,3 +36,7 @@ lines = 30
 
 [selection]
 save_to_clipboard = true
+
+[shell]
+program = "/usr/bin/tmux" # Ou o caminho do seu tmux (use 'which tmux' no terminal para conferir)
+args = ["new-session"]
