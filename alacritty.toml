@@ -20,9 +20,8 @@ family = "FiraCode Nerd Font Mono"
 style = "Bold Italic"
 
 [window]
-# Remove a barra de título e as bordas da janela
-decorations = "None"
-opacity = 0.9
+decorations = "Full"
+opacity = 0.8
 
 # Opcional: Adicione um preenchimento (padding) para o texto não colar na borda
 [window.padding]
